@@ -20,10 +20,22 @@ This tutorial outlines the implementation of Active Directory within Azure Virtu
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Resource Group
+- Virtual Machines
+- Static IP Address
+- Virtual Machine Connectivity
+- Allow IMCP Traffic
+- Active Directory Installation
+- Creating Organizational Units in Active Directory
+- Logging Out - Domain Controller
+- Admin LogIn
+- Connecting VM to Domain Controller
+- Logging Into VM with Domain Admin
+- Domain Users Access
+- Non-Admin Users Remote Desktop Access
+- Creating Multiple Users
+- Non-Admin User LogIn
+- Password Reset
 
 <h2>Deployment and Configuration Steps</h2>
 
