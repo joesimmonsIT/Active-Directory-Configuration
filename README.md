@@ -195,7 +195,7 @@ Availability Zone: Select the desired zone, for this tutorial we will be using "
 <img src="https://i.imgur.com/fZjdeTQ.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+For the Image select the desired image, for this tutorial we will be using "Windows 10 Pro".
 </p>
 <br />
 
