@@ -24,7 +24,7 @@ This tutorial outlines the implementation of Active Directory within Azure Virtu
 - Virtual Machines
 - Static IP Address
 - Virtual Machine Connectivity
-- IMCP Traffic Access
+- ICMP Traffic Access
 - Active Directory Installation
 - Creating Organizational Units in Active Directory
 - Logging Out - Domain Controller
@@ -456,7 +456,7 @@ Remote Desktop Connection for DC-1 is a success.
 </p>
 <br />
 
-<h2> IMCP Traffic Access </h2>
+<h2> ICMP Traffic Access </h2>
 <p>
 <img src="https://i.imgur.com/v02SvcC.png"/>
 </p>
