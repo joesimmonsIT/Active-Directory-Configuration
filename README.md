@@ -354,7 +354,7 @@ Copy Public IP Address.
 Go to Windows Pane. <br /> <br />
 Type "Remote Desktop Connection" in search bar. <br /> <br />
 Press Enter. <br /> <br />
-Past Public IP Address. <br /> <br />
+Paste Public IP Address. <br /> <br />
 Select "Connect".<br /> <br />
 </p>
 <br />
