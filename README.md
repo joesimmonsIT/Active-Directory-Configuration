@@ -627,8 +627,8 @@ Installation in progress.
 <img src="https://i.imgur.com/d0p89bO.png"/>
 </p>
 <p>
-Installation complete.
-Select "Close".
+Installation complete. <br /> <br />
+Select "Close". <br /> <br />
 </p>
 <br />
 
