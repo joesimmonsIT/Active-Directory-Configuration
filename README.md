@@ -50,8 +50,8 @@ Go to Azure Portal (Portal.Azure.com).
 <img src="https://i.imgur.com/ei5RlmO.png"/>
 </p>
 <p>
-Type "resource group" in the search bar.
-Select "Resource groups" from the search results.
+Type "resource group" in the search bar. <br /> <br />
+Select "Resource groups" from the search results. <br /> <br />
 </p>
 <br />
 
