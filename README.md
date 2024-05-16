@@ -137,7 +137,7 @@ Image: Select desired image, for this tutorial we will be using "Windows Server 
 <img src="https://i.imgur.com/f9Of4uG.png"/>
 </p>
 <p>
-Size: Select the desired size, for this tutorial we will be using "Standard - 2vcpus". <br /> <br />
+Size: Select the desired size, for this tutorial we will be using "Standard - 2 vcpus". <br /> <br />
 Username: Select the desired Username, for this tutorial we will be using "labuser". <br /> <br />
 Password: Create a password that you can easily remember or write down and easily retrieve. <br /> <br />
 Confirm Password: Re-enter the same password from the previous step. <br /> <br />
