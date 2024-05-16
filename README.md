@@ -721,7 +721,10 @@ DC-1 automatic restared to enable Active Directory features. <br /> <br />
 <img src="https://i.imgur.com/F0TqyR2.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Go to Windows Pane. <br /> <br />
+Type "Remote Desktop Connection" in the search bar. <br /> <br />
+Press Enter. <br /> <br />
+Select "Connect". <br /> <br />
 </p>
 <br />
 
@@ -729,7 +732,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/wOmQdUT.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Select "More choices". <br /> <br />
+Select "Use a different account". <br /> <br />
+Username: mydomain.com\labuser (since DC-1 is now a domain controller). <br /> <br />
+Password: Same DC-1 Password. <br /> <br />
+Select "Ok".
 </p>
 <br />
 
