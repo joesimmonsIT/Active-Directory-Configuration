@@ -891,7 +891,7 @@ Select "Jane Doe".
 <img src="https://i.imgur.com/fsrmvq0.png"/>
 </p>
 <p>
-Right Click and Select Properties.
+Right Click and Select "Properties".
 </p>
 <br />
 
