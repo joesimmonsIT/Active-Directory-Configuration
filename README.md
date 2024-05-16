@@ -390,7 +390,8 @@ Select "DC-1". <br /> <br />
 <img src="https://i.imgur.com/pDon5yc.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Scroll down to "Networking". <br /> <br />
+Copy Private IP Address. <br /> <br />
 </p>
 <br />
 
@@ -398,7 +399,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/LExTRRc.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once Remote Desktop Connection is complete for Client-1 go to the Windows Pane. <br /> <br />
+Type "cmd" in the search bar. <br /> <br />
+Press Enter. <br /> <br />
 </p>
 <br />
 
