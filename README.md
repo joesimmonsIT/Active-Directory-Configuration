@@ -266,8 +266,8 @@ Select "DC-1".
 <img src="https://i.imgur.com/oZHUddY.png"/>
 </p>
 <p>
-Select "Networking".
-Collapse and Select "Network Settings".
+Select "Networking". <br /> <br />
+Collapse and Select "Network Settings". <br /> <br />
 </p>
 <br />
 
@@ -283,8 +283,8 @@ Select "Network Interface".
 <img src="https://i.imgur.com/xmuqH9R.png"/>
 </p>
 <p>
-Collapse "Settings".
-Select "IP configurations".
+Collapse "Settings". <br /> <br />
+Select "IP configurations". <br /> <br />
 </p>
 <br />
 
