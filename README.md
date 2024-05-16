@@ -182,7 +182,12 @@ Select "Create another VM". <br /> <br />
 <img src="https://i.imgur.com/g6hepnn.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Subscription: Select appropriate subscription if you have more than one Azure subscription. <br /> <br />
+If you only have one subscription skip this step and move on to the next step. <br /> <br />
+Resource group: Select desired resource group name, for this tutorial we will be using "AD-Lab". <br /> <br />
+Virtual machine name: Select the desired virtual machine name, for this tutorial we will be using "Client 1". <br /> <br />
+Region: Select desired Region, for this tutorial we will be using "(US) East US". <br /> <br />
+Availability Zone: Select the desired zone, for this tutorial we will be using "Zone 2". <br /> <br />
 </p>
 <br />
 
