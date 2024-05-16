@@ -173,7 +173,8 @@ The deployment (creation) of the virtual machine is in process to be completed.
 <img src="https://i.imgur.com/qXJtdVF.png"/>
 </p>
 <p>
-The creation of the virtual machine is completed.
+The creation of the virtual machine is completed. <br /> <br />
+Select "Create another VM". <br /> <br />
 </p>
 <br />
 
