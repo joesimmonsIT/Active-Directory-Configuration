@@ -409,7 +409,8 @@ Press Enter. <br /> <br />
 <img src="https://i.imgur.com/wbNchX6.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Type "ping (spacebar)-t (spacebar)" Paste Private IP Address. <br /> <br />
+Observer the message "Request time out", this is because of the Static Private IP Address for DC-1. <br /> <br />
 </p>
 <br />
 
