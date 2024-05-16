@@ -129,7 +129,7 @@ Availability Zone: Select the desired zone, for this tutorial we will be using "
 <img src="https://i.imgur.com/qOstVjX.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Image: Select desired image, for this tutorial we will be using "Windows Server 2022".
 </p>
 <br />
 
@@ -137,7 +137,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/f9Of4uG.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Size: Select the desired size, for this tutorial we will be using "Standard - 2vcpus". <br /> <br />
+Username: Select the desired Username, for this tutorial we will be using "labuser". <br /> <br />
+Password: Create a password that you can easily remember or write down and easily retrieve. <br /> <br />
+Confirm Password: Re-enter the same password from the previous step. <br /> <br />
 </p>
 <br />
 
@@ -145,7 +148,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/ZSZ7rHn.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Select "Review + create".
 </p>
 <br />
 
