@@ -423,7 +423,7 @@ Go to Virtual Machines. <br /> <br />
 Select "DC-1". <br /> <br />
 Copy Public IP Address. <br /> <br />
 Go to Windows Pane. <br /> <br />
-Type "Remote Desktop Connection". <br /> <br />
+Type "Remote Desktop Connection" in the search bar. <br /> <br />
 Press Enter. <br /> <br />
 Paste Public IP Address. <br /> <br />
 Select "Connect". <br /> <br />
@@ -434,7 +434,9 @@ Select "Connect". <br /> <br />
 <img src="https://i.imgur.com/y1uoTdL.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Enter Username for the first virtual machine created, for this tutorial we will be using "labuser". <br /> <br />
+Enter Password for the same virtual machine. <br /> <br />
+Select "Ok". <br /> <br />
 </p>
 <br />
 
