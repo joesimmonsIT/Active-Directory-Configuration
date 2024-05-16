@@ -796,8 +796,8 @@ Select "Organizational Unit". <br /> <br />
 <img src="https://i.imgur.com/xaXsztB.png"/>
 </p>
 <p>
-Name: "_EMPLOYEES".
-Select "Ok".
+Name: "_EMPLOYEES".<br /> <br />
+Select "Ok". <br /> <br />
 </p>
 <br />
 
