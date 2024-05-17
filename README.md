@@ -1482,7 +1482,10 @@ Select "Ok". <br /> <br />
 <img src="https://i.imgur.com/V6vHaiH.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The 2nd option to password reset the employee's password is the following: <br /> <br />
+Select "_EMPLOYEES". <br /> <br />
+Select desired employee. <br /> <br />
+Right Click and Select "Reset Password". <br /> <br />
 </p>
 <br />
 
@@ -1491,7 +1494,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/mEh5gZB.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+There are several options to reset the password: <br /> <br />
+(1) Create a new password. <br /> <br />
+(2) Allow the option to change password at next login. <br /> <br />
+(3) Unlock the user's account. <br /> <br />
+Select the desired preferences. <br /> <br />
+Select "Ok". <br /> <br />
 </p>
 <br />
 
@@ -1500,6 +1508,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/IcMoVCv.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The Employee's password should be resetted. <br /> <br />
+Congratulations you have successfully completed this tutorial. <br /> <br />
 </p>
 <br />
