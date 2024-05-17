@@ -1080,6 +1080,7 @@ Copy "Private IP Address".
 <p>
 Go to "Virtual Machines". <br /> <br />
 Select "Client-1". <br /> <br />
+Collapse "Network". <br /> <br />
 Select "Network settings". <br /> <br />
 Select "Network interface". <br /> <br />
 Collapse "Settings". <br /> <br />
