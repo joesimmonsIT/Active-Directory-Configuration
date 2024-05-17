@@ -1133,7 +1133,7 @@ Select "Ok". <br /> <br />
 <img src="https://i.imgur.com/GfJXE01.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Select "Yes".
 </p>
 <br />
 
@@ -1141,7 +1141,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/TbdblfN.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Go to Windows Pane. <br /> <br />
+Type "cmd" in the search bar. <br /> <br />
+Press Enter. <br /> <br />
+Type "whoami" and Press Enter. <br /> <br />
+Type "hostname" and Press Enter. <br /> <br />
 </p>
 <br />
 
@@ -1149,7 +1153,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/9ahDW5a.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Type "ipconfig (spacebar) /all" and Press Enter. <br /> <br />
+Observe that the DNS Server is the same as the Private IP Address for the Domain Controller. <br /> <br />
 </p>
 <br />
 
