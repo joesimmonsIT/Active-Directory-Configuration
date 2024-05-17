@@ -1058,7 +1058,11 @@ We need to change the DNS Server for Client-1. <br /> <br />
 <img src="https://i.imgur.com/GURrPUG.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Go to Azure Portal (Portal.Azure.com). <br /> <br />
+Select "Virtual Machines" icon. <br /> <br />
+Select "DC-1". <br /> <br />
+Collapse "Networking". <br /> <br />
+Select "Network settings". <br /> <br />
 </p>
 <br />
 
@@ -1066,7 +1070,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/QEiiNGX.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Copy "Private IP Address".
 </p>
 <br />
 
@@ -1074,7 +1078,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/1fbwLsx.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Go to "Virtual Machines". <br /> <br />
+Select "Client-1". <br /> <br />
+Select "Network settings". <br /> <br />
+Select "Network interface". <br /> <br />
+Collapse "Settings". <br /> <br />
+Select "DNS Servers". <br /> <br />
+Select "Custom". <br /> <br />
+Paste Private IP Address in DNS Server. <br /> <br />
+Select "Save". <br /> <br />
 </p>
 <br />
 
@@ -1082,7 +1094,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/ZafpFAz.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Go to "Virtual Machines". <br /> <br />
+Select "Client-1". <br /> <br />
 </p>
 <br />
 
@@ -1090,7 +1103,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/3nzdft9.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Select "Restart". <br /> <br />
+Select "Yes". <br /> <br />
 </p>
 <br />
 
