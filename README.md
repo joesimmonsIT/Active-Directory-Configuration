@@ -1306,8 +1306,8 @@ Type "domain" and Select "Check Names".
 <img src="https://i.imgur.com/sGtWxwL.png"/>
 </p>
 <p>
-Select "Domain Users".
-Select "Ok".
+Select "Domain Users". <br /> <br />
+Select "Ok". <br /> <br />
 </p>
 <br />
 
