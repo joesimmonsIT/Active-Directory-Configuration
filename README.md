@@ -463,7 +463,7 @@ Remote Desktop Connection for DC-1 is a success.
 <p>
 Go to Windows Pane. <br /> <br />
 Type "wf.msc" in the search bar. <br /> <br />
-Press Enter. <br /> <br />
+Press "Enter". <br /> <br />
 </p>
 <br />
 
@@ -497,7 +497,7 @@ Sort "Protocol Column in ascending order.
 <p>
 Locate "ICMPv4". <br /> <br />
 Select the "2nd" entry.<br /> <br />
-Right Click and Enable Rule. <br /> <br />
+Right Click and "Enable Rule". <br /> <br />
 </p>
 <br />
 
@@ -513,7 +513,7 @@ Select "3rd entry - Local subnet"
 <img src="https://i.imgur.com/ycKojGv.png"/>
 </p>
 <p>
-Right Click and Enable Rule.
+Right Click and "Enable Rule".
 </p>
 <br />
 
@@ -723,7 +723,7 @@ DC-1 automatic restared to enable Active Directory features. <br /> <br />
 <p>
 Go to Windows Pane. <br /> <br />
 Type "Remote Desktop Connection" in the search bar. <br /> <br />
-Press Enter. <br /> <br />
+Press "Enter". <br /> <br />
 Select "Connect". <br /> <br />
 </p>
 <br />
@@ -851,10 +851,10 @@ Select "User". <br /> <br />
 <img src="https://i.imgur.com/Kd3mxTC.png"/>
 </p>
 <p>
-First Name: Jane. <br /> <br />
-Last Name: Doe. <br /> <br />
-Full Name: Jane Doe. <br /> <br />
-Username logon name: jane_admin. <br /><br />
+First Name: "Jane". <br /> <br />
+Last Name: "Doe". <br /> <br />
+Full Name: "Jane Doe". <br /> <br />
+Username logon name: "jane_admin". <br /><br />
 Select "Next". <br /> <br />
 </p>
 <br />
@@ -968,7 +968,7 @@ Jane Doe "Access" preferences has been updated.
 <p>
 Go to the Windows Pane. <br /> <br />
 Type "cmd" in the search bar. <br /> <br />
-Press Enter. <br /> <br />
+Press "Enter". <br /> <br />
 </p>
 <br />
 
@@ -976,8 +976,8 @@ Press Enter. <br /> <br />
 <img src="https://i.imgur.com/TVokNia.png"/>
 </p>
 <p>
-Type "whoami" and Press Enter. <br /> <br />
-Type "logoff" and Press Enter. <br /> <br />
+Type "whoami" and Press "Enter". <br /> <br />
+Type "logoff" and Press "Enter". <br /> <br />
 </p>
 <br />
 
@@ -988,7 +988,7 @@ Type "logoff" and Press Enter. <br /> <br />
 <p>
 Go to Windows Pane. <br /> <br />
 Type "Remote Desktop Connection" in search bar. <br /> <br />
-Press Enter. <br /> <br />
+Press "Enter". <br /> <br />
 Select "Connect". <br /> <br />
 </p>
 <br />
@@ -1019,7 +1019,7 @@ Select "Yes".
 <p>
 Go to Windows Pane. <br /> <br />
 Type "cmd" in the search bar. <br /> <br />
-Press Enter. <br /> <br />
+Press "Enter". <br /> <br />
 Type "whoami". <br /> <br />
 We have successfully logged in as Domain Admin. <br /> <br />
 </p>
@@ -1058,7 +1058,7 @@ We need to change the DNS Server for Client-1. <br /> <br />
 <img src="https://i.imgur.com/GURrPUG.png"/>
 </p>
 <p>
-Go to Azure Portal (Portal.Azure.com). <br /> <br />
+Go to Azure Portal "(Portal.Azure.com)". <br /> <br />
 Select "Virtual Machines" icon. <br /> <br />
 Select "DC-1". <br /> <br />
 Collapse "Networking". <br /> <br />
@@ -1115,7 +1115,7 @@ Select "Yes". <br /> <br />
 <p>
 Go to Windows Pane. <br /> <br />
 Type "Remote Desktop Connection" in the search bar. <br /> <br />
-Press Enter. <br /> <br />
+Press "Enter". <br /> <br />
 Go to "Virtual Machines". <br /> <br />
 Select "Client-1". <br /> <br />
 Copy Public IP Address. <br /> <br />
@@ -1143,9 +1143,9 @@ Select "Yes".
 <p>
 Go to Windows Pane. <br /> <br />
 Type "cmd" in the search bar. <br /> <br />
-Press Enter. <br /> <br />
-Type "whoami" and Press Enter. <br /> <br />
-Type "hostname" and Press Enter. <br /> <br />
+Press "Enter". <br /> <br />
+Type "whoami" and Press "Enter". <br /> <br />
+Type "hostname" and Press "Enter". <br /> <br />
 </p>
 <br />
 
@@ -1153,7 +1153,7 @@ Type "hostname" and Press Enter. <br /> <br />
 <img src="https://i.imgur.com/9ahDW5a.png"/>
 </p>
 <p>
-Type "ipconfig (spacebar) /all" and Press Enter. <br /> <br />
+Type "ipconfig (spacebar) /all" and Press "Enter". <br /> <br />
 Observe that the DNS Server is the same as the Private IP Address for the Domain Controller. <br /> <br />
 </p>
 <br />
@@ -1254,8 +1254,8 @@ Select "Yes". <br /> <br />
 </p>
 <p>
 Go to "Command Prompt". <br /> <br />
-Type "whoami" and Press Enter. <br /> <br />
-Type "hostname" and Press Enter. <br /> <br />
+Type "whoami" and Press "Enter". <br /> <br />
+Type "hostname" and Press "Enter". <br /> <br />
 Observe we have successfully logged into Client-1 as Domain Admin. <br /> <br />
 </p>
 <br />
@@ -1394,7 +1394,7 @@ Right Click and Select "Refresh". <br /> <br />
 </p>
 <p>
 Go to "Command Prompt". <br /> <br />
-Type "logoff" and Press Enter. <br /> <br />
+Type "logoff" and Press "Enter". <br /> <br />
 </p>
 <br />
 
@@ -1435,8 +1435,8 @@ Select "Ok". <br /> <br />
 </p>
 <p>
 Go to "Command Prompt". <br /> <br />
-Type "whoami" and Press Enter. <br /> <br />
-Type "hostname" and Press Enter. <br /> <br />
+Type "whoami" and Press "Enter". <br /> <br />
+Type "hostname" and Press "Enter". <br /> <br />
 We have successfully logged into Client-1 with the employee credentials you selected from Active Directory. <br /> <br />
 </p>
 <br />
@@ -1477,7 +1477,6 @@ Select "Ok". <br /> <br />
 </p>
 <br />
 
-
 <p>
 <img src="https://i.imgur.com/V6vHaiH.png"/>
 </p>
@@ -1488,7 +1487,6 @@ Select desired employee. <br /> <br />
 Right Click and Select "Reset Password". <br /> <br />
 </p>
 <br />
-
 
 <p>
 <img src="https://i.imgur.com/mEh5gZB.png"/>
