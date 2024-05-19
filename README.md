@@ -42,7 +42,7 @@ This tutorial outlines the implementation of Active Directory within Azure Virtu
 <img src="https://i.imgur.com/HGcJpqa.png"/>
 </p>
 <p>
-Go to Azure Portal (Portal.Azure.com).
+Go to Azure Portal "(Portal.Azure.com)".
 </p>
 <br />
 
@@ -97,7 +97,7 @@ Resource Group "AD-Lab" has successfully been created.
 <img src="https://i.imgur.com/KpkeCsk.png"/>
 </p>
 <p>
-Go to Azure Portal (Portal.Azure.com). <br /> <br />
+Go to Azure Portal "(Portal.Azure.com)". <br /> <br />
 Type "Virtual machines" in the search bar. <br /> <br />
 Select "Virtual machines" from the search results. <br /> <br />
 </p>
@@ -215,7 +215,7 @@ Confirm Password: Re-enter the same password from the previous step. <br /> <br 
 </p>
 <p>
 Acknowledge the Licensing Confirmation by check the box, it should turn blue. <br /> <br />
-Select Review + Create to proceed with creating the virtual machine. <br /> <br />
+Select "Review + Create" to proceed with creating the virtual machine. <br /> <br />
 </p>
 <br />
 
@@ -326,7 +326,7 @@ Select "Refresh".
 <img src="https://i.imgur.com/hskurKY.png"/>
 </p>
 <p>
-Go to Azure Portal (Portal.Azure.com). <br /> <br />
+Go to Azure Portal "(Portal.Azure.com)". <br /> <br />
 Select "Virtual Machines" icon. <br /> <br />
 </p>
 <br />
@@ -353,7 +353,7 @@ Copy Public IP Address.
 <p>
 Go to Windows Pane. <br /> <br />
 Type "Remote Desktop Connection" in search bar. <br /> <br />
-Press Enter. <br /> <br />
+Press "Enter". <br /> <br />
 Paste Public IP Address. <br /> <br />
 Select "Connect".<br /> <br />
 </p>
@@ -401,7 +401,7 @@ Copy Private IP Address. <br /> <br />
 <p>
 Once Remote Desktop Connection is complete for Client-1 go to the Windows Pane. <br /> <br />
 Type "cmd" in the search bar. <br /> <br />
-Press Enter. <br /> <br />
+Press "Enter". <br /> <br />
 </p>
 <br />
 
@@ -424,7 +424,7 @@ Select "DC-1". <br /> <br />
 Copy Public IP Address. <br /> <br />
 Go to Windows Pane. <br /> <br />
 Type "Remote Desktop Connection" in the search bar. <br /> <br />
-Press Enter. <br /> <br />
+Press "Enter". <br /> <br />
 Paste Public IP Address. <br /> <br />
 Select "Connect". <br /> <br />
 </p>
